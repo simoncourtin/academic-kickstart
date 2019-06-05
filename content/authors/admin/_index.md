@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'am a PhD student in computer Graphics
+bio: PhD student in computer graphics Universtiy of Poitiers, XLIM CNRS
 
 interests:
 - Computer graphics
