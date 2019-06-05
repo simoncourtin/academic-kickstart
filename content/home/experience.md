@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -24,23 +24,24 @@ date_format = "Jan 2006"
   location = "Poitiers, France"
   date_start = "2018-10-01"
   date_end = ""
-  description = "Computer Graphics, insterest of details in generated images. Physicaly based  rendering methods"
+  description = "Computer Graphics, insterest in details for computer generated images. Physically based rendering methods"
 
 [[experience]]
-  title = "Intership"
+  title = "Internship"
   company = "University of Poitiers"
   company_url = ""
   location = "Poitiers"
   date_start = "2018-02-01"
   date_end = "2018-07-01"
-  description = "Intership in XLIM lab. Resarch in Computer Graphics domain"
+  description = "Internship in XLIM lab. Rendering of rounded 3D objects"
 
 [[experience]]
-  title = "Intership"
+  title = "Internship"
   company = "Universty of Quebec at Chicoutimi"
   company_url = ""
   location = "Chicoutimi, Quebec"
   date_start = "2015-04-01"
   date_end = "2015-06-01"
+  description = "Serious game of truck simulator"
 
 +++

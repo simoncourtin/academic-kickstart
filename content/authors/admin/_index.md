@@ -24,7 +24,7 @@ interests:
 - Computer graphics
 - Rendering Details
 - Data Structure
-- Physicaly based rendering
+- Physically based rendering
 
 education:
   courses:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student (since 2018) in computer graphics at University of Poitiers in France. Work in ASALI axe of [XLIM lab](https://www.xlim.fr/) with members of IG (computer graphics) team. My principal researchs in my theses interests details in computer generated images.
+I'm a PhD student (since 2018) in computer graphics at University of Poitiers (France), [XLIM lab](https://www.xlim.fr/) in IG (computer graphics) team. My research topics concern details handling in computer generated images.
