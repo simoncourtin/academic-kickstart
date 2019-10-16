@@ -15,7 +15,7 @@ role: PhD Student in computer graphics
 # Organizations/Affiliations
 organizations:
 - name: Université de Poitiers, XLIM
-  url: ""
+  url: "xlim.fr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student in computer graphics Universtiy of Poitiers, XLIM CNRS
