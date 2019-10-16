@@ -3,7 +3,7 @@ title: "Efficient Rendering of Rounded Corners and Edges for Convex Objects"
 authors:
 - admin
 - Sébastien Horna
-- Mickaël Ribadière
+- Mickaël Ribardière
 - Pierre Poulin
 - Daniel Meneveaux
 date: "2019-06-17T00:00:00Z"
@@ -37,9 +37,9 @@ featured: fasle
 
 links:
 - name: Supplementals
-  url: '#'
-url_pdf: '#'
-url_video: '#'
+  url: 'research/supplementalscourtin2019efficient.pdf'
+url_pdf: 'research/courtin2019efficient.pdf'
+url_video: 'research/videocourtin2019efficient.mkv'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
